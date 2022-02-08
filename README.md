@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HJRamya
 - 👀 I’m interested in Developing Websites
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT..
 - 📫 How to reach me: ramyaacharya76@gmail.com 
 
 <!---
